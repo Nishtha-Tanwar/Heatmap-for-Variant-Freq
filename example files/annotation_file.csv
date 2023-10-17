@@ -1,0 +1,10 @@
+Cancer,Cancer location,Patient ID,Gender,Test Name,Cancer Type,Gene,Variant (g.),cDNA,ENST,Protein,Allelic burden,Clin Sig,Impact
+Breast cancer,Breast cancer,IN-423-VHWL,F,HRR Germline,Breast carcinoma,ATM,"chr11:g.108165729C>T,","c.4852C>T,",[ENST00000278616.4],p.Arg1618Ter,0.52,Pathogenic,Nonsense
+Breast cancer,Breast cancer,12001P034 - G,F,Germline+,Breast Carcinoma,BRCA1,chr17:g.17:41276044_46AGdel,,,p.Glu23X,,Pathogenic,Frameshift
+Breast cancer,Breast cancer,IN-423-TLDA,F,Germline+,Breast Cancer,BRCA1,"chr17:41209116:TT,",,,p.R1765Kfs*85,,Pathogenic Heterozygous,
+Breast cancer,Breast cancer,IN-423-UEMB,F,Germline +,CA Bilateral breast,BRCA1,chr17:g.41209095G>A,c.5251C>T,ENST00000471181.2,p.Arg1772*,,Pathogenic,stop gained
+Breast cancer,Breast cancer,IN-423-UEQI,F,Germline +,Breast Cancer,BRCA1,chr17:g.41246359>AG,c.9112_9113insAG,ENST00000471181.2,p.Asp396X,,Pathogenic,Frameshift
+Breast cancer,Breast cancer,IN-423-UH4K,F,Germline+,Ca Breast,BRCA1,chr17:g.41246359_60delA,c.1188Tdel,ENST00000471181.2,p.Asp396fs,,Pathogenic,Frameshift
+Breast cancer,Breast cancer,IN-423-UIMH,F,Germline Family testing,CA Breast,BRCA1,chr17:g.41246359>AG,c.9112_9113insAG,ENST00000471181.2,p.Asp396X,,Pathogenic,Frameshift
+Breast cancer,Breast cancer,IN-423-UIVC,F,Germline+,Ca right breast,BRCA1,chr17:41258551G>T,c.135-1G>T,[ENST00000471181.2],,0.43,Pathogenic,splice acceptor
+Breast cancer,Breast cancer,IN-423-UJEA,F,Germline+,Breast CA,BRCA1,chr17:41209095C>T,c.5314C>T,[ENST00000471181.2],p.Arg1772Ter,,Pathogenic,Nonsense
