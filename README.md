@@ -1,2 +1,1 @@
-# Heatmap-for-Variant-Freq
-Happy
+# Variant_Frequency_Heatmap
